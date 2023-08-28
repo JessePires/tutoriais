@@ -134,3 +134,5 @@ etc/
 
 # execução
 **temp_data/
+
+SSVEP/datasets/**/*
