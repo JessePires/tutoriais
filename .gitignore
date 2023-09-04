@@ -136,6 +136,6 @@ etc/
 **temp_data/
 
 SSVEP/datasets/**/*
-SSVEP/datasets2/**/*
+# SSVEP/datasets2/**/*
 Pipfile
 Pipfile.lock
