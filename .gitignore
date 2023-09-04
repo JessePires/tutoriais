@@ -137,3 +137,5 @@ etc/
 
 SSVEP/datasets/**/*
 SSVEP/datasets2/**/*
+Pipfile
+Pipfile.lock
